@@ -1,0 +1,1 @@
+{"model_id":"support-router-lora-v0.1","challenger_id":"support-router-base-v0.1","model_version":"demo-2026-11-11","case_study":"MLX LoRA IT support classifier","min_accuracy":0.8,"max_robustness_drop":0.15,"max_segment_gap":0.2,"max_psi":0.2,"min_challenger_delta":0.0}
